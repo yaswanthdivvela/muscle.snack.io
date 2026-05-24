@@ -49,6 +49,16 @@
     "matchQuality": "exact",
     "mismatchNote": "Internet visual shows the pseudo-planche hand position, lean, and push-up depth."
   },
+  "plank-lean-isometric": {
+    "file": "assets/exercise-images/plank-lean-isometric.jpg",
+    "sourceExercise": "Plank Lean Isometric",
+    "sourceId": "plank-lean-isometric",
+    "source": "Lift Manual",
+    "sourceUrl": "https://liftmanual.com/wp-content/uploads/2023/04/pseudo-planche-push-up.jpg",
+    "referenceType": "direct",
+    "matchQuality": "exact",
+    "mismatchNote": "Internet visual shows the forward shoulder lean used for the isometric hold."
+  },
   "hamstring-walkout": {
     "file": "assets/exercise-images/hamstring-walkout.jpg",
     "sourceExercise": "Hamstring Bridge Walkout",
@@ -328,16 +338,6 @@
     "referenceType": "illustration",
     "matchQuality": "exact",
     "mismatchNote": "Exact visual reference."
-  },
-  "plank-lean-isometric": {
-    "file": "assets/exercise-images/plank-lean-isometric.jpg",
-    "sourceExercise": "Plank",
-    "sourceId": "plank",
-    "source": "Spotebi exercise guide",
-    "sourceUrl": "https://spotebi.com/wp-content/uploads/2014/10/plank-exercise-illustration.jpg",
-    "referenceType": "illustration",
-    "matchQuality": "close",
-    "mismatchNote": "Plank reference; lean shoulders forward as written."
   },
   "single-leg-calf-iso-lower": {
     "file": "assets/exercise-images/single-leg-calf-iso-lower.jpg",
