@@ -1,193 +1,193 @@
 {
   "toe-yoga-tripod": {
     "file": "assets/exercise-images/toe-yoga-tripod.jpg",
-    "sourceExercise": "Toe Yoga + Tripod",
+    "sourceExercise": "Toe Yoga Tripod",
     "sourceId": "toe-yoga-tripod",
-    "source": "GeeksOnFeet / Run Mechanics",
-    "sourceUrl": "https://geeksonfeet.com/img/workouts/toeyoga.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet toe-yoga visual showing big-toe and small-toe lifts."
+    "mismatchNote": ""
   },
   "short-foot-tripod": {
     "file": "assets/exercise-images/short-foot-tripod.jpg",
-    "sourceExercise": "Short-Foot Tripod Hold",
+    "sourceExercise": "Short Foot Tripod",
     "sourceId": "short-foot-tripod",
-    "source": "SomaStruct",
-    "sourceUrl": "https://www.somastruct.com/wp-content/uploads/2023/09/SF-insta.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Photo reference for short-foot arch lift; use cues for tripod pressure."
+    "mismatchNote": ""
   },
   "wall-push-up": {
     "file": "assets/exercise-images/wall-push-up.jpg",
-    "sourceExercise": "Wall Push-Up",
+    "sourceExercise": "Wall Push Up",
     "sourceId": "wall-push-up",
-    "source": "Wikimedia Commons / CDC",
-    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wallpushup-CDC_strength_training_for_older_adults.gif",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Exact visual reference."
+    "mismatchNote": ""
   },
   "forward-lean-pushup": {
     "file": "assets/exercise-images/forward-lean-pushup.jpg",
-    "sourceExercise": "Forward-Lean Push-Up",
+    "sourceExercise": "Forward Lean Pushup",
     "sourceId": "forward-lean-pushup",
-    "source": "Lift Manual",
-    "sourceUrl": "https://liftmanual.com/wp-content/uploads/2023/04/pseudo-planche-push-up.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet visual shows the forward shoulder lean and push-up depth."
+    "mismatchNote": ""
   },
   "pseudo-planche-pushup": {
     "file": "assets/exercise-images/pseudo-planche-pushup.jpg",
-    "sourceExercise": "Pseudo-Planche Push-Up",
+    "sourceExercise": "Pseudo Planche Pushup",
     "sourceId": "pseudo-planche-pushup",
-    "source": "Lift Manual",
-    "sourceUrl": "https://liftmanual.com/wp-content/uploads/2023/04/pseudo-planche-push-up.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet visual shows the pseudo-planche hand position, lean, and push-up depth."
+    "mismatchNote": ""
   },
   "plank-lean-isometric": {
     "file": "assets/exercise-images/plank-lean-isometric.jpg",
     "sourceExercise": "Plank Lean Isometric",
     "sourceId": "plank-lean-isometric",
-    "source": "Lift Manual",
-    "sourceUrl": "https://liftmanual.com/wp-content/uploads/2023/04/pseudo-planche-push-up.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet visual shows the forward shoulder lean used for the isometric hold."
+    "mismatchNote": ""
   },
   "hamstring-walkout": {
     "file": "assets/exercise-images/hamstring-walkout.jpg",
-    "sourceExercise": "Hamstring Bridge Walkout",
+    "sourceExercise": "Hamstring Walkout",
     "sourceId": "hamstring-walkout",
-    "source": "Rehab Hero",
-    "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5f5e8592d2b0854b18af6975/1647644588306-12DDS5QYF3PVH6I5RWVS/Hamstring%2BBridge%2BWalks.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet bridge-walk reference; use the card cues for tiny heel steps."
+    "mismatchNote": ""
   },
   "hamstring-sweep-reach": {
     "file": "assets/exercise-images/hamstring-sweep-reach.jpg",
-    "sourceExercise": "Hamstring Sweep + Reach",
+    "sourceExercise": "Hamstring Sweep Reach",
     "sourceId": "hamstring-sweep-reach",
-    "source": "Motra",
-    "sourceUrl": "https://cdn.motra.com/exercise-assets/7f5b7dafa4/thumbnailOriginal.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet hamstring sweep reference; perform it slowly as written."
+    "mismatchNote": ""
   },
   "half-kneeling-rock-reach": {
     "file": "assets/exercise-images/half-kneeling-rock-reach.jpg",
-    "sourceExercise": "Half-Kneeling Rock + Hamstring Reach",
+    "sourceExercise": "Half Kneeling Rock Reach",
     "sourceId": "half-kneeling-rock-reach",
-    "source": "FitMetrics / YouTube thumbnail",
-    "sourceUrl": "https://i3.ytimg.com/vi_webp/ywZ1Z1E2MZI/maxresdefault.webp",
-    "referenceType": "direct",
-    "matchQuality": "close",
-    "mismatchNote": "Half-kneeling hamstring reference; add the knee-forward rock and reach from cues."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "ankle-knee-to-wall-rock": {
     "file": "assets/exercise-images/ankle-knee-to-wall-rock.jpg",
-    "sourceExercise": "Ankle Knee-To-Wall Rock",
+    "sourceExercise": "Ankle Knee To Wall Rock",
     "sourceId": "ankle-knee-to-wall-rock",
-    "source": "West End Physiotherapy",
-    "sourceUrl": "https://westendphysio.com/wp-content/uploads/2023/09/knee-to-wall-2-768x1024.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Exact visual reference."
+    "mismatchNote": ""
   },
   "adductor-rockback-reach": {
     "file": "assets/exercise-images/adductor-rockback-reach.jpg",
     "sourceExercise": "Adductor Rockback Reach",
     "sourceId": "adductor-rockback-reach",
-    "source": "Kinetix Golf Performance",
-    "sourceUrl": "https://i0.wp.com/kinetix.golf/wp-content/uploads/2025/07/Adductor-Rockbacks-for-golf-blog-featured-image.png",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Exact visual reference."
+    "mismatchNote": ""
   },
   "ninety-ninety-hip-switch": {
     "file": "assets/exercise-images/ninety-ninety-hip-switch.jpg",
-    "sourceExercise": "90/90 Hip Switch",
+    "sourceExercise": "Ninety Ninety Hip Switch",
     "sourceId": "ninety-ninety-hip-switch",
-    "source": "Lift Manual",
-    "sourceUrl": "https://liftmanual.com/wp-content/uploads/2023/04/shin-box-switch.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Exact visual reference."
+    "mismatchNote": ""
   },
   "quadruped-thoracic-rotation": {
     "file": "assets/exercise-images/quadruped-thoracic-rotation.jpg",
     "sourceExercise": "Quadruped Thoracic Rotation",
     "sourceId": "quadruped-thoracic-rotation",
-    "source": "BodBot",
-    "sourceUrl": "https://www.bodbot.com/mobilebrowser/resources/images/exercises/276.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet visual shows the hand-behind-head quadruped rotation."
+    "mismatchNote": ""
   },
   "single-leg-tripod-balance": {
     "file": "assets/exercise-images/single-leg-tripod-balance.jpg",
-    "sourceExercise": "Single-Leg Tripod Balance",
+    "sourceExercise": "Single Leg Tripod Balance",
     "sourceId": "single-leg-tripod-balance",
-    "source": "WorkoutLabs",
-    "sourceUrl": "https://workoutlabs.com/wp-content/uploads/watermarked/single-leg-balance-S-F.png",
-    "referenceType": "direct",
-    "matchQuality": "close",
-    "mismatchNote": "Single-leg stance reference; keep tripod foot and quiet knee."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "hollow-hold": {
     "file": "assets/exercise-images/hollow-hold.jpg",
     "sourceExercise": "Hollow Hold",
     "sourceId": "hollow-hold",
-    "source": "Lift Manual",
-    "sourceUrl": "https://liftmanual.com/wp-content/uploads/2023/04/hollow-hold.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet visual shows hollow-body position and anti-extension shape."
+    "mismatchNote": ""
   },
   "single-leg-hinge-reach": {
     "file": "assets/exercise-images/single-leg-hinge-reach.jpg",
-    "sourceExercise": "Single-Leg Hinge Reach",
+    "sourceExercise": "Single Leg Hinge Reach",
     "sourceId": "single-leg-hinge-reach",
-    "source": "Lift Manual",
-    "sourceUrl": "https://liftmanual.com/wp-content/uploads/2026/05/single-leg-deadlift-with-knee-lift.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet visual shows the single-leg hinge and return."
+    "mismatchNote": ""
   },
   "plank-reach-through": {
     "file": "assets/exercise-images/plank-reach-through.jpg",
-    "sourceExercise": "Plank Reach-Through",
+    "sourceExercise": "Plank Reach Through",
     "sourceId": "plank-reach-through",
-    "source": "Motra",
-    "sourceUrl": "https://cdn.motra.com/exercise-assets/3bc11fd45c/thumbnailOriginal.jpg",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Internet visual shows forearm plank reach-through mechanics."
+    "mismatchNote": ""
   },
   "wall-tibialis-raise": {
     "file": "assets/exercise-images/wall-tibialis-raise.jpg",
     "sourceExercise": "Wall Tibialis Raise",
     "sourceId": "wall-tibialis-raise",
-    "source": "StrengthLog",
-    "sourceUrl": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2025/06/tibialis-raises-ezgif.com-optimize.gif?resize=700%2C700&ssl=1",
-    "referenceType": "direct",
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Wall tibialis raise reference."
+    "mismatchNote": ""
   },
   "counterbalance-squat": {
     "file": "assets/exercise-images/counterbalance-squat.jpg",
-    "sourceExercise": "Squat",
+    "sourceExercise": "Counterbalance Squat",
     "sourceId": "squat",
-    "source": "Spotebi exercise guide",
-    "sourceUrl": "https://spotebi.com/wp-content/uploads/2014/10/squat-exercise-illustration.jpg",
-    "referenceType": "illustration",
-    "matchQuality": "close",
-    "mismatchNote": "Standard squat image; use cues for counterbalance arm intent."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "tempo-squat": {
     "file": "assets/exercise-images/tempo-squat.jpg",
@@ -221,13 +221,13 @@
   },
   "kickstand-squat": {
     "file": "assets/exercise-images/kickstand-squat.jpg",
-    "sourceExercise": "Split Squat",
+    "sourceExercise": "Kickstand Squat",
     "sourceId": "split-squat",
-    "source": "Spotebi exercise guide",
-    "sourceUrl": "https://spotebi.com/wp-content/uploads/2015/04/split-squat-exercise-illustration.jpg",
-    "referenceType": "illustration",
-    "matchQuality": "close",
-    "mismatchNote": "Split-squat reference; front-leg bias is defined by card cues."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "hip-hinge-rock": {
     "file": "assets/exercise-images/hip-hinge-rock.jpg",
@@ -261,23 +261,23 @@
   },
   "long-lever-bridge": {
     "file": "assets/exercise-images/long-lever-bridge.jpg",
-    "sourceExercise": "Glute Bridge",
+    "sourceExercise": "Long Lever Bridge",
     "sourceId": "glute-bridge",
-    "source": "Spotebi exercise guide",
-    "sourceUrl": "https://spotebi.com/wp-content/uploads/2015/01/glute-bridge-exercise-illustration.jpg",
-    "referenceType": "illustration",
-    "matchQuality": "close",
-    "mismatchNote": "Bridge reference; use heel distance cues for long-lever setup."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "prone-cobra-hold": {
     "file": "assets/exercise-images/prone-cobra-hold.jpg",
-    "sourceExercise": "Superman",
+    "sourceExercise": "Prone Cobra Hold",
     "sourceId": "superman",
-    "source": "Spotebi exercise guide",
-    "sourceUrl": "https://spotebi.com/wp-content/uploads/2016/02/superman-exercise-illustration-spotebi.jpg",
-    "referenceType": "illustration",
-    "matchQuality": "close",
-    "mismatchNote": "Superman-like reference; keep arms angled back as written."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "knee-push-up": {
     "file": "assets/exercise-images/knee-push-up.jpg",
@@ -341,42 +341,43 @@
   },
   "single-leg-calf-iso-lower": {
     "file": "assets/exercise-images/single-leg-calf-iso-lower.jpg",
-    "sourceExercise": "Calf Raises",
+    "sourceExercise": "Single Leg Calf Iso Lower",
     "sourceId": "calf-raises",
-    "source": "Spotebi exercise guide",
-    "sourceUrl": "https://spotebi.com/wp-content/uploads/2015/05/calf-raises-exercise-illustration.jpg",
-    "referenceType": "illustration",
-    "matchQuality": "close",
-    "mismatchNote": "Calf-raise image; single-leg iso and slow lower are cue-led."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "deep-squat-pry": {
     "file": "assets/exercise-images/deep-squat-pry.jpg",
-    "sourceExercise": "Squat",
+    "sourceExercise": "Deep Squat Pry",
     "sourceId": "squat",
-    "source": "Spotebi exercise guide",
-    "sourceUrl": "https://spotebi.com/wp-content/uploads/2014/10/squat-exercise-illustration.jpg",
-    "referenceType": "illustration",
-    "matchQuality": "close",
-    "mismatchNote": "Squat reference; prying shifts are defined by card cues."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "standing-hip-circles": {
     "file": "assets/exercise-images/standing-hip-circles.jpg",
     "sourceExercise": "Standing Hip Circles",
     "sourceId": "Standing_Hip_Circles",
-    "source": "yuhonas/free-exercise-db",
-    "referenceType": "photo",
+    "source": "AI Generated (Codex ImageGen)",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Exact visual reference."
+    "mismatchNote": "",
+    "sourceUrl": ""
   },
   "cossack-hamstring-pry": {
     "file": "assets/exercise-images/cossack-hamstring-pry.jpg",
-    "sourceExercise": "Cossack Squat",
+    "sourceExercise": "Cossack Hamstring Pry",
     "sourceId": "cossack-squat",
-    "source": "Spotebi exercise guide",
-    "sourceUrl": "https://spotebi.com/wp-content/uploads/2016/04/cossack-squat-exercise-illustration-spotebi.jpg",
-    "referenceType": "illustration",
-    "matchQuality": "close",
-    "mismatchNote": "Cossack reference; hamstring pry is cue-led."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "dead-bug": {
     "file": "assets/exercise-images/dead-bug.jpg",
@@ -390,13 +391,13 @@
   },
   "lateral-step-stick": {
     "file": "assets/exercise-images/lateral-step-stick.jpg",
-    "sourceExercise": "Lateral Walk",
+    "sourceExercise": "Lateral Step Stick",
     "sourceId": "lateral-walk",
-    "source": "Spotebi exercise guide",
-    "sourceUrl": "https://spotebi.com/wp-content/uploads/2017/10/lateral-walk-exercise-illustration-spotebi.jpg",
-    "referenceType": "illustration",
-    "matchQuality": "close",
-    "mismatchNote": "Lateral-walk reference; stick the landing instead of stepping continuously."
+    "source": "AI Generated (Codex ImageGen)",
+    "sourceUrl": "",
+    "referenceType": "ai-illustration",
+    "matchQuality": "exact",
+    "mismatchNote": ""
   },
   "forearm-plank": {
     "file": "assets/exercise-images/forearm-plank.jpg",
@@ -420,38 +421,42 @@
   },
   "active-hang": {
     "file": "assets/exercise-images/active-hang.jpg",
-    "sourceExercise": "Scapular Pull-Up",
+    "sourceExercise": "Active Hang",
     "sourceId": "Scapular_Pull-Up",
-    "source": "yuhonas/free-exercise-db",
-    "referenceType": "photo",
+    "source": "AI Generated (Codex ImageGen)",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Exact visual reference."
+    "mismatchNote": "",
+    "sourceUrl": ""
   },
   "scapular-pull-up": {
     "file": "assets/exercise-images/scapular-pull-up.jpg",
-    "sourceExercise": "Scapular Pull-Up",
+    "sourceExercise": "Scapular Pull Up",
     "sourceId": "Scapular_Pull-Up",
-    "source": "yuhonas/free-exercise-db",
-    "referenceType": "photo",
+    "source": "AI Generated (Codex ImageGen)",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Exact visual reference."
+    "mismatchNote": "",
+    "sourceUrl": ""
   },
   "flexed-arm-hang": {
     "file": "assets/exercise-images/flexed-arm-hang.jpg",
-    "sourceExercise": "Pullups",
+    "sourceExercise": "Flexed Arm Hang",
     "sourceId": "Pullups",
-    "source": "yuhonas/free-exercise-db",
-    "referenceType": "photo",
+    "source": "AI Generated (Codex ImageGen)",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Exact visual reference."
+    "mismatchNote": "",
+    "sourceUrl": ""
   },
   "negative-pull-up": {
     "file": "assets/exercise-images/negative-pull-up.jpg",
-    "sourceExercise": "Pullups",
+    "sourceExercise": "Negative Pull Up",
     "sourceId": "Pullups",
-    "source": "yuhonas/free-exercise-db",
-    "referenceType": "photo",
+    "source": "AI Generated (Codex ImageGen)",
+    "referenceType": "ai-illustration",
     "matchQuality": "exact",
-    "mismatchNote": "Exact visual reference."
+    "mismatchNote": "",
+    "sourceUrl": ""
   }
 }
